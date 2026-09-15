@@ -64,10 +64,12 @@ After launch, type:
 - Min-max normalization skips a feature when its range is zero.
 - This project currently keeps perceptron target label fixed to `Iris-setosa` in command mode.
 
-## Suggested repository name
+## Project Background
 
-If you want a cleaner, portfolio-friendly name:
+I created this project independently for an Artificial Intelligence course at
+the Polish-Japanese Academy of Information Technology. The algorithms are
+implemented from scratch in C++ without external machine-learning libraries.
 
-- `iris-knn-perceptron-cpp`
-- `knn-perceptron-from-scratch`
-- `iris-classification-cpp`
+## License
+
+This project is licensed under the [MIT License](LICENSE).
